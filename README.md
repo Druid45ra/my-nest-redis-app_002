@@ -1,4 +1,5 @@
 # 🚀 my-nest-redis-app_002
+Microserviciu Node.js robust, construit cu NestJS, PostgreSQL, Redis și orchestrare Docker — ideal ca punct de plecare pentru API-uri REST scalabile.
 
 **Aplicatie demonstrativă NestJS + PostgreSQL + Redis + Docker**
 
