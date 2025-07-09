@@ -6,7 +6,11 @@ export class RedisService {
   private client: Redis.Redis;
 
   constructor() {
-    this.client = new Redis();
+    this.client = new Redis({
+      host: process.env.REDIS_HOST,
+      port: process.env.REDIS_PORT,
+      password: process.env.REDIS_PASSWORD,
+    });
   }
 
   async set(key: string, value: string) {
@@ -17,3 +21,4 @@ export class RedisService {
     return this.client.get(key);
   }
 }
+
