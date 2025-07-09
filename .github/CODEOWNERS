@@ -1,0 +1,18 @@
+# Fiecare linie: <path> <owners>
+
+# Owner general pentru tot repo-ul
+* @Druid45ra
+
+# Exemplu: dacă ai un director "src/users"
+src/users/ @Druid45ra
+
+# Exemplu: dacă ai un backend și un frontend
+backend/ @Druid45ra
+frontend/ @Druid45ra
+
+# Exemplu: dacă vei lucra cu echipe GitHub (team-uri)
+docs/ @Druid45ra/docs-team
+
+# Toate fișierele de configurare sunt revizuite de tine
+*.md @Druid45ra
+*.yml @Druid45ra
