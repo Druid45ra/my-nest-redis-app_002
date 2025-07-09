@@ -40,7 +40,7 @@ Acest Cod de Conduită se aplică în toate spațiile de colaborare: Issues, Pul
 ## 🔹 Raportare
 
 Încălcările Codului de Conduită pot fi raportate direct către **Owner-ul proiectului**:  
-**Email:** [contact@example.com] (înlocuiește cu adresa ta reală)  
+**Email:** [radu_vanca@live.com]  
 Toate raportările vor fi tratate cu confidențialitate maximă.
 
 ---
