@@ -115,14 +115,3 @@ Clonează, testează, contribuie și îmbunătățește!
 Proiect distribuit sub licență MIT.
 
 
----
-
-## ✅ **Cum folosești**
-
-1️⃣ Creezi `README.md` în rădăcina proiectului.  
-2️⃣ Lipești conținutul exact.  
-3️⃣ În `git`, faci:
-```bash
-git add README.md
-git commit -m "Add professional README"
-git push
